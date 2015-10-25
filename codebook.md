@@ -20,7 +20,8 @@ The source data was collected from the UCI Machine Learning Repository to comple
 12. Created another data set using the dplyr library to group the tidy data by subject and activity
 13. Then applied the average calculations across the groups
 14. Produce "calculated_data.txt" as the second expected output
-
+ 
+Please refer to run_analysis.R for implementation details.
 
 ##Variables
 
