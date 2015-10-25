@@ -22,4 +22,9 @@ The source data was collected from the UCI Machine Learning Repository to comple
 14. Produce "calculated_data.txt" as the second expected output
 
 
+##Variables
+
+* SubjectId: 1 to 30 each representing a participant in the study
+
+
 
