@@ -6,8 +6,8 @@ This code book includes information about the source data, the transformations p
 
 The source data was collected from the UCI Machine Learning Repository to complete an assignment for a Coursera course named Getting and Cleaning Data instructed by Jeff Leek. The assignment involved working with the data set and producing tidy data representation of the source data. Below is a list of the operations done to achieve the outputs.
 
-1.Downloaded the data set
-2.Unzipped the data set into my chosen working directory
+1. Downloaded the data set
+2. Unzipped the data set into my chosen working directory
 3.Loaded activity labels and features
 4.Extract the selected features on mean and standard deviation
 5.Loaded test and train data sets into data frames
